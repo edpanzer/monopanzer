@@ -33,6 +33,8 @@
 </p>
 
 ---
+## This is my own fork of monochrome, i do not own anything, this is just my own modified version of it. 
+
 
 ## What is Monochrome?
 
